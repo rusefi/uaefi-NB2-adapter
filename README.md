@@ -1,4 +1,8 @@
+# ABANDONED, NOT TESTED
+
 # uaefi-adapter-template
+
+
 
 
 To be used with https://github.com/rusefi/uaefi
